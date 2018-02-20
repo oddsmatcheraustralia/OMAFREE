@@ -1,3 +1,7 @@
 Required: Google Chrome, Excel or Equivalent (i.e Libre Office).    
 Required: Windows 7 and above, ideally with up to date specs.  
 Recommended (not essential): Windows 10 64 bit
+
+If you encounter problems, close all background applications.  Set priority real-time in task manager.  Run Chrome Cleaner.
+
+Worth noting, that it may take longer if your computer is out of date or has low specs.  
